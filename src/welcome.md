@@ -6,13 +6,13 @@
 
 ## What is this meeting about?
 
-The Rust teams and working groups have proven to be a really effective way to scale the project. As the teams have grown, though, they have come to operate more and more independently, and we need a mechanism for the whole project to stay in sync. The "Cross Team Collaboration Fun Times" meeting (CTCFT for short) fills that gap.
+The Rust teams and working groups have proven to be a really effective way to scale the project. As the teams have grown, though, they have come to operate more and more independently, and we need a mechanism for the whole project to stay in sync. The "Cross Team Collaboration Fun Times" meeting (CTCFT for short) aims to help in closing that gap.
 
 ## What are the goals of the meeting?
 
-* To celebrate and raise awareness of what is happening in the project.
-* To track progress on important efforts and communicate requests between teams.
-* To give a forum for cross-team discussion and collaboration.
+* 🎉 To celebrate and raise awareness of what is happening in the project.
+* ✅ To track progress on important efforts and communicate requests between teams.
+* 💬 To give a forum for cross-team discussion and collaboration.
 
 ## When's the next meeting?
 
