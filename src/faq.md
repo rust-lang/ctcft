@@ -29,6 +29,10 @@ One other point: because the agenda will be circulated in advance, it may be tha
 
 [nikomatsakis] plans to do those things, but he will need help in running the meeting. If you'd like to help out, check out the `#ctcft` stream on Zulip.
 
+### How can I suggest something for inclusion in the meeting?
+
+File an issue on the [CTCFT Repository](https://github.com/rust-ctcft/ctcft), or contact `ideas@ctcft.com`.
+
 ### What if I have something sensitive to discuss?
 
 For sensitive items, this is likely not the right meeting, but we can organize a "closed meeting" if desired.
@@ -62,7 +66,7 @@ Further, the scope of the meeting is broader. The meeting will representatives f
 The timing for the meeting is something I would like feedback on. I think it's important that we make the meeting accessible, but I also think we should take into account the time zone that the majority of participants are coming from. Here is a kind of survey of possible times and how accessible they are to folks from different time zones: 
 
 | Berlin | NY | SF | Beijing | Sydney | Auckland | 🔗 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | 12:00 🥰 | 06:00 ❌ | 03:00 ❌ | 18:00 🥱 | 20:00 ❌ | 22:00 ❌ | [link](https://everytimezone.com/s/9446d968) |
 | 15:00 🥰 | 09:00 🥰 | 06:00 ❌ | 21:00 🥱 | 23:00 🥰 | 00:00 ❌ | [link](https://everytimezone.com/s/37b6b584) |
 | 17:00 🥰 | 11:00 🥰 | 08:00 🥰 | 23:00 ❌ | 01:00 ❌ | 02:00 ❌ | [link](https://everytimezone.com/s/9ecc9fe9) |
