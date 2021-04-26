@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Cross Team Collaboration Fun Times"
+
+[output.html]
+site-url = "/ctcft/"
+git-repository-url = "https://github.com/rust-ctcft/ctcft"
