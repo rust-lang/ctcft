@@ -95,7 +95,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="welcome.html"><strong aria-hidden="true">1.</strong> 👋🏽 Welcome</a></li><li class="chapter-item expanded "><a href="meetings.html"><strong aria-hidden="true">2.</strong> 👨‍👩‍👧 Metings</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="meetings/2021-05-10.html"><strong aria-hidden="true">2.1.</strong> 2021-05-10</a></li></ol></li><li class="chapter-item expanded "><a href="faq.html" class="active"><strong aria-hidden="true">3.</strong> 🤔 FAQ</a></li></ol>
+                <ol class="chapter"><li class="chapter-item "><a href="welcome.html"><strong aria-hidden="true">1.</strong> 👋🏽 Welcome</a></li><li class="chapter-item "><a href="meetings.html"><strong aria-hidden="true">2.</strong> 👨‍👩‍👧 Meetings</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="meetings/2021-05-10.html"><strong aria-hidden="true">2.1.</strong> 2021-05-10</a></li></ol></li><li class="chapter-item expanded "><a href="faq.html" class="active"><strong aria-hidden="true">3.</strong> 🤔 FAQ</a></li><li class="chapter-item "><a href="coc.html"><strong aria-hidden="true">4.</strong> 💖 Code of conduct</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -204,6 +204,8 @@
 <p>One other point: because the agenda will be circulated in advance, it may be that you pick and choose which meetings to attend based on whether this is a discussion topic that you have a lot of interest in.</p>
 <h3 id="who-will-mc-and-who-will-assemble-the-meeting-agenda"><a class="header" href="#who-will-mc-and-who-will-assemble-the-meeting-agenda">Who will MC and who will assemble the meeting agenda?</a></h3>
 <p>[nikomatsakis] plans to do those things, but he will need help in running the meeting. If you'd like to help out, check out the <code>#ctcft</code> stream on Zulip.</p>
+<h3 id="how-can-i-suggest-something-for-inclusion-in-the-meeting"><a class="header" href="#how-can-i-suggest-something-for-inclusion-in-the-meeting">How can I suggest something for inclusion in the meeting?</a></h3>
+<p>File an issue on the <a href="https://github.com/rust-ctcft/ctcft">CTCFT Repository</a>, or contact <code>ideas@ctcft.com</code>.</p>
 <h3 id="what-if-i-have-something-sensitive-to-discuss"><a class="header" href="#what-if-i-have-something-sensitive-to-discuss">What if I have something sensitive to discuss?</a></h3>
 <p>For sensitive items, this is likely not the right meeting, but we can organize a &quot;closed meeting&quot; if desired.</p>
 <h3 id="does-this-really-have-to-be-synchronous"><a class="header" href="#does-this-really-have-to-be-synchronous">Does this really have to be synchronous?</a></h3>
@@ -223,15 +225,15 @@
 <p>Further, the scope of the meeting is broader. The meeting will representatives from project groups like error handling and other key efforts of the Rust project.</p>
 <h3 id="how-did-you-arrive-at-those-times-can-we-try-different-ones"><a class="header" href="#how-did-you-arrive-at-those-times-can-we-try-different-ones">How did you arrive at those times? Can we try different ones?</a></h3>
 <p>The timing for the meeting is something I would like feedback on. I think it's important that we make the meeting accessible, but I also think we should take into account the time zone that the majority of participants are coming from. Here is a kind of survey of possible times and how accessible they are to folks from different time zones: </p>
-<p>| Berlin | NY | SF | Beijing | Sydney | Auckland | 🔗 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 12:00 🥰 | 06:00 ❌ | 03:00 ❌ | 18:00 🥱 | 20:00 ❌ | 22:00 ❌ | <a href="https://everytimezone.com/s/9446d968">link</a> |
-| 15:00 🥰 | 09:00 🥰 | 06:00 ❌ | 21:00 🥱 | 23:00 🥰 | 00:00 ❌ | <a href="https://everytimezone.com/s/37b6b584">link</a> |
-| 17:00 🥰 | 11:00 🥰 | 08:00 🥰 | 23:00 ❌ | 01:00 ❌ | 02:00 ❌ | <a href="https://everytimezone.com/s/9ecc9fe9">link</a> |
-| 21:00 🥱 | 15:00 🥰 | 12:00 🥰 | 3:00 ❌ | 5:00 ❌ | 7:00 ❌ | <a href="https://everytimezone.com/s/9ecc9fe9">link</a> |
-| 01:00 ❌ | 19:00 🥱 | 16:00 🥰 | 7:00 ❌ | 9:00 🥰 | 10:00 🥰 | <a href="https://everytimezone.com/s/e00841f8">link</a> |
-| 02:00 ❌ | 20:00 🥱 | 17:00 🥰 | 8:00 ❌ | 10:00 🥰 | 11:00 🥰 | <a href="https://everytimezone.com/s/e00841f8">link</a> |
-| 03:00 ❌ | 21:00 🥱 | 18:00 🥱 | 9:00 🥰 | 11:00 🥰 | 12:00 🥰 | <a href="https://everytimezone.com/s/da0d7065">link</a> |</p>
+<table><thead><tr><th>Berlin</th><th>NY</th><th>SF</th><th>Beijing</th><th>Sydney</th><th>Auckland</th><th>🔗</th></tr></thead><tbody>
+<tr><td>12:00 🥰</td><td>06:00 ❌</td><td>03:00 ❌</td><td>18:00 🥱</td><td>20:00 ❌</td><td>22:00 ❌</td><td><a href="https://everytimezone.com/s/9446d968">link</a></td></tr>
+<tr><td>15:00 🥰</td><td>09:00 🥰</td><td>06:00 ❌</td><td>21:00 🥱</td><td>23:00 🥰</td><td>00:00 ❌</td><td><a href="https://everytimezone.com/s/37b6b584">link</a></td></tr>
+<tr><td>17:00 🥰</td><td>11:00 🥰</td><td>08:00 🥰</td><td>23:00 ❌</td><td>01:00 ❌</td><td>02:00 ❌</td><td><a href="https://everytimezone.com/s/9ecc9fe9">link</a></td></tr>
+<tr><td>21:00 🥱</td><td>15:00 🥰</td><td>12:00 🥰</td><td>3:00 ❌</td><td>5:00 ❌</td><td>7:00 ❌</td><td><a href="https://everytimezone.com/s/9ecc9fe9">link</a></td></tr>
+<tr><td>01:00 ❌</td><td>19:00 🥱</td><td>16:00 🥰</td><td>7:00 ❌</td><td>9:00 🥰</td><td>10:00 🥰</td><td><a href="https://everytimezone.com/s/e00841f8">link</a></td></tr>
+<tr><td>02:00 ❌</td><td>20:00 🥱</td><td>17:00 🥰</td><td>8:00 ❌</td><td>10:00 🥰</td><td>11:00 🥰</td><td><a href="https://everytimezone.com/s/e00841f8">link</a></td></tr>
+<tr><td>03:00 ❌</td><td>21:00 🥱</td><td>18:00 🥱</td><td>9:00 🥰</td><td>11:00 🥰</td><td>12:00 🥰</td><td><a href="https://everytimezone.com/s/da0d7065">link</a></td></tr>
+</tbody></table>
 <p>Key:</p>
 <ul>
 <li>🥰 working hours (9:00..18:00)</li>
@@ -250,6 +252,10 @@
                         
 
                         
+                            <a rel="next" href="coc.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
 
                         <div style="clear: both"></div>
                     </nav>
@@ -263,6 +269,10 @@
                     </a>
                 
 
+                
+                    <a rel="next" href="coc.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
                 
             </nav>
 
