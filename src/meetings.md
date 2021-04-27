@@ -15,7 +15,7 @@ Meetings will be recorded and those recordings will be posted publicly. We may e
 
 ## Rules for participation
 
-* The meeting is open for anyone to observe ([read more]).
+* The meeting is open for anyone to observe ([read more](./faq.html#who-can-attend-the-meeting)).
 * We will use a meeting queue to ensure everyone who wants to speak has a chance.
 * The meeting queue is managed by the MC (typically [nikomatsakis]) and they will call on when you when it is time to speak.
 * To add yourself to the queue, write `o/` in the chat.
@@ -38,4 +38,4 @@ Key:
 * 🥱 rather late (18:00..22:00) -- which could be good for some folks!
 * ❌ totally unreasonable (22:00 - 9:00)
 
-## Submitting agenda items
+[CTCFT Calendar]: https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York

@@ -31,7 +31,7 @@ One other point: because the agenda will be circulated in advance, it may be tha
 
 ### How can I suggest something for inclusion in the meeting?
 
-File an issue on the [CTCFT Repository](https://github.com/rust-ctcft/ctcft), or contact `ideas@ctcft.com`.
+Ping [nikomatsakis] with the idea! The easiest way is to reach out on [Discord] or [Zulip] via privmsg.
 
 ### What if I have something sensitive to discuss?
 
@@ -82,3 +82,5 @@ Key:
 * ❌ totally unreasonable (22:00 - 9:00)
 
 [CTCFT Calendar]: https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York
+
+[nikomatsakis]: https://github.com/nikomatsakis/
