@@ -6,28 +6,13 @@ The meeting is open for anyone to observe, but we limit active participation to 
 
 ### I have 222+ unread Github notifications in rust-lang/rust. Why is this meeting worth my time?
 
-Alternative phrasing: [Should this meeting be an email?](https://blog.doist.com/meeting-vs-email/)
-
-This meeting is meant to have a very high "signal to noise" ratio. It is not a place to come for general status updates, but it is a place to learn from what others in the Rust org are doing. It's also a place for us to discuss cross-cutting issues and coordinate on cross-cutting technical projects.
-
-If you look at the reasons to have a meeting over email cite in that link, I think they lead us towards "OK, this should be a meeting":
-
-* Is it a complex issue and you wish to talk through ideas?
-    * Often, yes!
-* Is it a project with a lot of vaiables involves and you want everyone on the same page?
-    * Often, yes!
-* Is the primary goal to build camaderie?
-    * That is a goal of the meeting, yes.
-* Is it a status update?
-    * No, we won't include simple status updates. We will only include things that either have lessons that may be useful elsewhere or which require cross team collaboration for some other reasons.
-* Does everyone have the information they need?
-    * Today, not so much, but hopefully they will because we'll be having these meetings regularly. =)
+This meeting is meant for busy people. It's not just a bunch of random status updates. It's a carefully selected set of topics meant to spark both discussions and new ideas for how the Rust teams operate, and a place for us to coordinate on cross-cutting technical projects.
 
 One other point: because the agenda will be circulated in advance, it may be that you pick and choose which meetings to attend based on whether this is a discussion topic that you have a lot of interest in.
 
 ### Who will MC and who will assemble the meeting agenda?
 
-[nikomatsakis] plans to do those things, but he will need help in running the meeting. If you'd like to help out, check out the `#ctcft` stream on Zulip.
+To start, [nikomatsakis] plans to do those things. Assuming the meeting is a success, we'll figure out next steps then.
 
 ### How can I suggest something for inclusion in the meeting?
 
@@ -84,3 +69,7 @@ Key:
 [CTCFT Calendar]: https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York
 
 [nikomatsakis]: https://github.com/nikomatsakis/
+
+[Discord]: https://discord.gg/rust-lang
+
+[Zulip]: https://rust-lang.zulipchat.com/
