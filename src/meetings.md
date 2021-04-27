@@ -1,5 +1,8 @@
 # 👨‍👩‍👧 Meetings
 
+<img src="https://media.giphy.com/media/3og0IRlDT9If1CPCZW/source.gif" width="50%"></img>
+
+
 Every CTCFT Meeting has its own page, found on the left. The page contains the agenda and, after the meeting takes place, it is updated with notes and links to a recording (if any). Meeting agenda items are always announced at least one week in advance of the next meeting (often more).
 
 ## Meeting recordings
@@ -12,12 +15,15 @@ Meetings will be recorded and those recordings will be posted publicly. We may e
 ## Rules for participation
 
 * The meeting is open for anyone to observe ([read more](./faq.html#who-can-attend-the-meeting)).
-* We will use a meeting queue to ensure everyone who wants to speak has a chance.
-* The meeting queue is managed by the MC (typically [nikomatsakis]) and they will call on when you when it is time to speak.
-* To add yourself to the queue, write `o/` in the chat.
-* To remove yourself from the queue, write `nm` in the chat.
-* Keep your video off unless you are involved in conversation or once you have added yourself to the queue. Turn it back off afterwards. 
-* Stay muted when not speaking.
+* We will use a **meeting queue** to ensure everyone who wants to speak has a chance. The queue is managed by the MC.
+    * To add yourself to the queue, write `o/` in the chat.
+    * To remove yourself from the queue, write `nm` in the chat.
+    * If you you prefer, you can also ask a question for the speaker in the chat and the MC can read it out loud.
+* Please keep your **video off** unless you are expecting to speak.
+    * If you are enqueued or expect you may well enqueue yourself soon, then feel free to turn it on.
+    * This way the set of folks visible reflects who is actively participating at that moment.
+* Stay **muted** when not speaking.
+* Please **avoid extensive conversations in the chat** -- quick Q&A is ok.
 
 ## Timing of the meeting
 
