@@ -25,7 +25,7 @@ Meetings will be recorded and those recordings will be posted publicly. We may e
 
 ## Timing of the meeting
 
-The meetings are targeted for the second Monday of every month. The timing of the meeting generally alternates between these two times. See the [CTCFT Calendar] for details.
+The meetings are targeted for the third Monday of every month. The timing of the meeting generally alternates between these two times. See the [CTCFT Calendar] for details.
 
 | Berlin | NY | SF | Beijing | Sydney | Auckland | 🔗 |
 | --- | --- | --- | --- | --- | --- | --- |
