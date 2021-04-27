@@ -1,10 +1,6 @@
 # 👨‍👩‍👧 Meetings
 
-Every CTCFT Meeting has its own page, found on the left.
-
-## Meeting agenda
-
-The meeting agenda will be assembled in advance and announced the day before each meeting (or more). See the [agenda document](https://hackmd.io/QZrDNeUXRsKtQuyjdpH0Pw) for details.
+Every CTCFT Meeting has its own page, found on the left. The page contains the agenda and, after the meeting takes place, it is updated with notes and links to a recording (if any). Meeting agenda items are always announced at least one week in advance of the next meeting (often more).
 
 ## Meeting recordings
 
