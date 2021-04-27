@@ -3,7 +3,7 @@ authors = ["Niko Matsakis"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Cross Team Collaboration Fun Times"
+title = "Cross-Team Collaboration Fun Times"
 
 [output.html]
 site-url = "/ctcft/"
