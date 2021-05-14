@@ -142,13 +142,15 @@
                             <i id="git-repository-button" class="fa fa-github"></i>
                         </a>
                         
+                        
+
                     </div>
                 </div>
 
                 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -186,7 +188,7 @@
 <p>Yes! We typically record the meetings and link to the recordings in the meeting minutes that are published on this site.</p>
 <h2 id="can-i-come"><a class="header" href="#can-i-come">Can I come?</a></h2>
 <p>The meeting is open for anyone to observe, but we limit active participation to members of the Rust teams, working groups, project groups, and other major stakeholders in the Rust community (e.g., leads from popular crates). This is because we wish to ensure that we have a high bandwidth form of communication. If you're unsure about what level of participation makes sense for you, feel free to reach out to nikomatsakis to discuss.</p>
-<h1 id="-meetings"><a class="header" href="#-meetings">👨‍👩‍👧 Meetings</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="-meetings"><a class="header" href="#-meetings">👨‍👩‍👧 Meetings</a></h1>
 <p><img src="https://media.giphy.com/media/3og0IRlDT9If1CPCZW/source.gif" width="50%"></img></p>
 <p>Every CTCFT Meeting has its own page, found on the left. The page contains the agenda and, after the meeting takes place, it is updated with notes and links to a recording (if any). Meeting agenda items are always announced at least one week in advance of the next meeting (often more).</p>
 <h2 id="meeting-recordings"><a class="header" href="#meeting-recordings">Meeting recordings</a></h2>
@@ -226,32 +228,33 @@
 <li>🥱 rather late (18:00..22:00) -- which could be good for some folks!</li>
 <li>❌ totally unreasonable (22:00 - 9:00)</li>
 </ul>
-<h1 id="2021-05-17"><a class="header" href="#2021-05-17">2021-05-17</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="2021-05-17"><a class="header" href="#2021-05-17">2021-05-17</a></h1>
 <table><thead><tr><th>Info</th><th></th></tr></thead><tbody>
 <tr><td>MC</td><td><a href="https://github.com/nikomatsakis/">nikomatsakis</a></td></tr>
 <tr><td>Time</td><td><a href="https://everytimezone.com/s/675bc61f">See in your time zone</a></td></tr>
-<tr><td>Calendar event</td><td><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2tpNjVkamZjdmdzbGhlNWxmaWIzMXF1Z3IgN24wdnZvcWZlMGtibms2aTA0dWl1NTJ0MzBAZw&amp;tmsrc=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com">link</a></td></tr>
+<tr><td>Calendar event (with Zoom details)</td><td><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2tpNjVkamZjdmdzbGhlNWxmaWIzMXF1Z3IgN24wdnZvcWZlMGtibms2aTA0dWl1NTJ0MzBAZw&amp;tmsrc=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com">link</a></td></tr>
 </tbody></table>
 <h2 id="agenda"><a class="header" href="#agenda">Agenda</a></h2>
+<p>You can find the <a href="https://hackmd.io/@rust-ctcft?tags=%5B%222021-05-17%22%5D">presentations on hackmd</a>.</p>
 <ul>
-<li>(5min) Wait for people to join the call</li>
+<li>(5min) Welcome (<a href="https://hackmd.io/@rust-ctcft/H1VIQToO_">slides</a>)</li>
 <li>(10min) <strong>Exciting developments</strong> 🎉
 <ul>
-<li>Rust 2021 Edition -- <a href="https://github.com/nikomatsakis/">nikomatsakis</a></li>
-<li>Error handling working group -- <a href="https://github.com/yaahc/">yaahc</a></li>
+<li><a href="https://hackmd.io/@rust-ctcft/H1VIQToO_">Rust 2021 Edition</a> -- <a href="https://github.com/nikomatsakis/">nikomatsakis</a></li>
+<li><a href="https://hackmd.io/@rust-ctcft/H1VIQToO_">Error handling working group</a> -- <a href="https://github.com/yaahc/">yaahc</a></li>
 </ul>
 </li>
-<li>(10min) <strong>Async vision doc</strong> (<a href="https://github.com/nikomatsakis/">nikomatsakis</a>, <a href="https://github.com/tmandry/">tmandry</a>)
+<li>(15min) <strong><a href="https://hackmd.io/@rust-ctcft/Bysao3tu_">Async vision doc</a></strong> (<a href="https://github.com/nikomatsakis/">nikomatsakis</a>, <a href="https://github.com/tmandry/">tmandry</a>)
 <ul>
 <li>The Async Vision Doc is a recent experiment to develop an overall framing that goes beyond individual RFCs. Async foundation co-leads <a href="https://github.com/nikomatsakis/">nikomatsakis</a> and <a href="https://github.com/tmandry/">tmandry</a> will discuss the ideas behind the vision doc, its current status, as well as what worked and didn't work. Vision docs could potentially be helpful in other areas of the project as well.</li>
 </ul>
 </li>
-<li>(15min) <strong>Compiler team sprint retrospective</strong> (<a href="https://github.com/wesleywiser/">wesleywiser</a>, <a href="https://github.com/pnkfelix/">pnkfelix</a>)
+<li>(15min) <strong><a href="https://hackmd.io/@rust-ctcft/HyrllhFud#/">Compiler team sprint retrospective</a></strong> (<a href="https://github.com/wesleywiser/">wesleywiser</a>, <a href="https://github.com/pnkfelix/">pnkfelix</a>)
 <ul>
 <li>In March, Compiler team conducted an experimental <a href="https://blog.rust-lang.org/inside-rust/2021/02/15/shrinkmem-rustc-sprint.html">development sprint</a>. The goal was to drive engagement from contributors by offering people the chance to work in a focused fashion over a short period of time, rather than in small bursts over a long period of time. Compiler team co-leads <a href="https://github.com/wesleywiser/">wesleywiser</a> and <a href="https://github.com/pnkfelix/">pnkfelix</a> will discuss the experience and the lessons they took away from it.</li>
 </ul>
 </li>
-<li>(10min) <strong>Let the fun times roll</strong> (<a href="https://github.com/nikomatsakis/">nikomatsakis</a>)
+<li>(5min) <strong><a href="https://hackmd.io/@rust-ctcft/BkHae6sOu">Let the fun times roll</a></strong> (<a href="https://github.com/nikomatsakis/">nikomatsakis</a>)
 <ul>
 <li>Thanks for coming to the first CTCFT! <a href="https://github.com/nikomatsakis/">nikomatsakis</a> will present the plan for future meetings going forward.</li>
 </ul>
@@ -262,7 +265,7 @@
 </ul>
 </li>
 </ul>
-<h2 id="frequently-asked-questions"><a class="header" href="#frequently-asked-questions">Frequently Asked Questions</a></h2>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h2 id="frequently-asked-questions"><a class="header" href="#frequently-asked-questions">Frequently Asked Questions</a></h2>
 <h3 id="who-can-attend-the-meeting"><a class="header" href="#who-can-attend-the-meeting">Who can attend the meeting?</a></h3>
 <p>The meeting is open for anyone to observe, but we limit active participation to members of the Rust teams, working groups, project groups, and other major stakeholders in the Rust community (e.g., leads from popular crates). This is because we wish to ensure that we have a high bandwidth form of communication. If you're unsure about what level of participation makes sense for you, feel free to reach out to nikomatsakis to discuss.</p>
 <h3 id="i-have-222-unread-github-notifications-in-rust-langrust-why-is-this-meeting-worth-my-time"><a class="header" href="#i-have-222-unread-github-notifications-in-rust-langrust-why-is-this-meeting-worth-my-time">I have 222+ unread Github notifications in rust-lang/rust. Why is this meeting worth my time?</a></h3>
@@ -306,7 +309,7 @@
 <li>🥱 rather late (18:00..22:00) -- which could be good for some folks!</li>
 <li>❌ totally unreasonable (22:00 - 9:00)</li>
 </ul>
-<h1 id="internets"><a class="header" href="#internets">Internets</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="internets"><a class="header" href="#internets">Internets</a></h1>
 <p><img src="https://media.giphy.com/media/l0IyhuGIkIfxfLL0I/source.gif" alt="Schitt's Creek Image" /></p>
 <p>Here are links to various Rust CTCFT related internet things:</p>
 <ul>
@@ -315,7 +318,7 @@
 <li><a href="https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&amp;ctz=America%2FNew_York">RustCTCFT Calendar</a></li>
 </ul>
 <p>(Yes, this page was mostly an excuse to embed that GIF.)</p>
-<h1 id="-code-of-conduct"><a class="header" href="#-code-of-conduct">💖 Code of conduct</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="-code-of-conduct"><a class="header" href="#-code-of-conduct">💖 Code of conduct</a></h1>
 <h2 id="rust-code-of-conduct"><a class="header" href="#rust-code-of-conduct">Rust code of conduct</a></h2>
 <p>All participants in the CTCFT meeting are expected to observe the <a href="https://www.rust-lang.org/policies/code-of-conduct">Rust code of conduct</a>.</p>
 <ul>
