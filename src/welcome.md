@@ -16,7 +16,9 @@ The Rust teams and working groups have proven to be a really effective way to sc
 
 ## When's the next meeting?
 
-The [meetings](./meetings.md) section gives more details about the meeting, along with the agenda for upcoming meetings. You can also check out the [CTCFT Calendar] which lists all our meetings and has Zoom links and the like.
+The [meetings](./meetings.md) section gives more details about the meeting, along with the agenda for upcoming meetings and links to the slides (which are hosted on our [hackmd team]). You can also check out the [CTCFT Calendar] which lists all our meetings and has Zoom links and the like.
+
+[hackmd team]: https://hackmd.io/@rust-ctcft
 
 ## Are there minutes and recordings?
 

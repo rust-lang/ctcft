@@ -2,8 +2,11 @@
 
 <img src="https://media.giphy.com/media/3og0IRlDT9If1CPCZW/source.gif" width="50%"></img>
 
-
 Every CTCFT Meeting has its own page, found on the left. The page contains the agenda and, after the meeting takes place, it is updated with notes and links to a recording (if any). Meeting agenda items are always announced at least one week in advance of the next meeting (often more).
+
+## Meeting slides
+
+You can find the slides for the various presentations on our [hackmd team page](https://hackmd.io/@rust-ctcft).
 
 ## Meeting recordings
 
