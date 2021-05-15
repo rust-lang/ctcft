@@ -2,7 +2,7 @@
 
 ### Who can attend the meeting?
 
-The meeting is meant primarily for members of the Rust teams, but it's open for anyone to come and observe. It would be great to have folks from teams using Rust, people who develop major Rust libraries, academics researching Rust, and other members of the broader Rust community come and join.
+This meeting is open for anyone to come and observe. Even though the meeting is primarily meant as a forum for the members of the Rust teams, it can be hard to define the borders of a community like ours. We'd love to have people who work on major Rust libraries in the ecosystem, for example, or who work on the various Rust teams at different companies.
 
 ### I have 222+ unread Github notifications in rust-lang/rust. Why is this meeting worth my time?
 
@@ -16,25 +16,23 @@ To start, [nikomatsakis] plans to do those things. Assuming the meeting is a suc
 
 ### What kinds of things would be a good fit for the agenda?
 
+We're looking for three kinds of things:
+
 * Status updates on projects that could affect multiple teams;
 * Experience reports with insights to share;
 * "Rough draft" proposals that are ready to be brought before a wider audience.
 
-### What should I do if I have an idea for the agenda?
+### How can I propose an agenda item?
 
 [Open an issue on the CTCFT repo to let nikomatsakis know about it!](https://github.com/rust-ctcft/ctcft/issues/new/choose)
 
-### How can I suggest something for inclusion in the meeting?
-
-Ping [nikomatsakis] with the idea! The easiest way is to reach out on [Discord] or [Zulip] via privmsg.
-
 ### What if I have something sensitive to discuss?
 
-For sensitive items, this is likely not the right meeting, but we can organize a "closed meeting" if desired.
+For sensitive items, this is likely not the right meeting, but you can reach out to nikomatsakis privately to discuss it.
 
 ### Does this really have to be synchronous?
 
-For this to work, we need people to pay attention for an hour. We're all really busy, and asynchronous communication is all too easy to ignore. 
+Yes. For this to work, we need people to pay attention for an hour. We're all really busy, and asynchronous communication is all too easy to ignore. 
 
 ### What can we do to make this accessible to people around the globe?
 
