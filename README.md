@@ -1,3 +1,3 @@
-# Cross-Team Collaboration Fun Times
+# [Cross-Team Collaboration Fun Times](https://rust-ctcft.github.io/ctcft/)
 
-![Schitt's Creek](https://media.giphy.com/media/WvHYe1cYwxpraclL4B/source.gif)
+[![camprust](img/camprust.png)](https://rust-ctcft.github.io/ctcft/)
