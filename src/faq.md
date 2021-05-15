@@ -83,3 +83,7 @@ Key:
 [Discord]: https://discord.gg/rust-lang
 
 [Zulip]: https://rust-lang.zulipchat.com/
+
+### I love the logo. Who designed it?
+
+Glad you asked! I love it too! [@Xfactor521](https://twitter.com/xfactor521) made it! 🙏
