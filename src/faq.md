@@ -2,7 +2,7 @@
 
 ### Who can attend the meeting?
 
-The meeting is open for anyone to observe, but we limit active participation to members of the Rust teams, working groups, project groups, and other major stakeholders in the Rust community (e.g., leads from popular crates). This is because we wish to ensure that we have a high bandwidth form of communication. If you're unsure about what level of participation makes sense for you, feel free to reach out to nikomatsakis to discuss.
+The meeting is meant primarily for members of the Rust teams, but it's open for anyone to come and observe. It would be great to have folks from teams using Rust, people who develop major Rust libraries, academics researching Rust, and other members of the broader Rust community come and join.
 
 ### I have 222+ unread Github notifications in rust-lang/rust. Why is this meeting worth my time?
 
@@ -13,6 +13,16 @@ One other point: because the agenda will be circulated in advance, it may be tha
 ### Who will MC and who will assemble the meeting agenda?
 
 To start, [nikomatsakis] plans to do those things. Assuming the meeting is a success, we'll figure out next steps then.
+
+### What kinds of things would be a good fit for the agenda?
+
+* Status updates on projects that could affect multiple teams;
+* Experience reports with insights to share;
+* "Rough draft" proposals that are ready to be brought before a wider audience.
+
+### What should I do if I have an idea for the agenda?
+
+[Open an issue on the CTCFT repo to let nikomatsakis know about it!](https://github.com/rust-ctcft/ctcft/issues/new/choose)
 
 ### How can I suggest something for inclusion in the meeting?
 

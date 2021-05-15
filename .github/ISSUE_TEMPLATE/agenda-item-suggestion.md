@@ -9,6 +9,16 @@ assignees: ''
 
 **Who:** *List github user names for folks who would present the item*
 
-**General idea:** *What is the general idea of what you want to present? A brief outline is good.*
+**General idea:** *What is the general idea of what you want to present? A brief paragraph is good.*
 
-**Why do other people care:** *What makes the CTCFT a good forum for this? We're particularly interested in things that may spark discussion amongst multiple Rust teams.*
+**Which of the following categories apply:** (You can pick more than one!)
+
+* [ ] Status update of broad interest
+* [ ] Experience report with insights to share
+* [ ] Proposal for discussion
+
+**What Rust teams would be intereted in this and why?**
+
+**What kind of feedback are you looking for from the audience (if any)? Are there specific questions you'd like to ask?**
+
+

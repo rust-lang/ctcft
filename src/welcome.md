@@ -2,7 +2,7 @@
 
 ## Fostering cross-team collaboration in the Rust project
 
-![Schitt's Creek Image](https://media.giphy.com/media/WvHYe1cYwxpraclL4B/source.gif)
+![Logo](https://raw.githubusercontent.com/rust-ctcft/ctcft/main/img/camprust.png)
 
 ## What is this meeting about?
 
@@ -24,6 +24,6 @@ Yes! We typically record the meetings and link to the recordings in the meeting 
 
 ## Can I come?
 
-The meeting is open for anyone to observe, but we limit active participation to members of the Rust teams, working groups, project groups, and other major stakeholders in the Rust community (e.g., leads from popular crates). This is because we wish to ensure that we have a high bandwidth form of communication. If you're unsure about what level of participation makes sense for you, feel free to reach out to nikomatsakis to discuss.
+Yes! The meeting is meant primarily for members of the Rust teams, but it's open for anyone to come and observe. It would be great to have folks from teams using Rust, people who develop major Rust libraries, academics researching Rust, and other members of the broader Rust community come and join.
 
 [CTCFT Calendar]: https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York
