@@ -24,6 +24,6 @@ Yes! We typically record the meetings and link to the recordings in the meeting 
 
 ## Can I come?
 
-Yes! The meeting is meant primarily for members of the Rust teams, but it's open for anyone to come and observe. It would be great to have folks from teams using Rust, people who develop major Rust libraries, academics researching Rust, and other members of the broader Rust community come and join.
+Yes! This meeting is open for anyone to come and observe. Even though the meeting is primarily meant as a forum for the members of the Rust teams, it can be hard to define the borders of a community like ours. We'd love to have people who work on major Rust libraries in the ecosystem, for example, or who work on the various Rust teams at different companies.
 
 [CTCFT Calendar]: https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York
