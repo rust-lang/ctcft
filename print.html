@@ -83,7 +83,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item "><a href="welcome.html"><strong aria-hidden="true">1.</strong> 👋🏽 Welcome</a></li><li class="chapter-item "><a href="meetings.html"><strong aria-hidden="true">2.</strong> 👨‍👩‍👧 Meetings</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="meetings/2021-05-17.html"><strong aria-hidden="true">2.1.</strong> 2021-05-17</a></li><li class="chapter-item "><a href="meetings/2021-06-21.html"><strong aria-hidden="true">2.2.</strong> 2021-06-21</a></li></ol></li><li class="chapter-item "><a href="faq.html"><strong aria-hidden="true">3.</strong> 🤔 FAQ</a></li><li class="chapter-item "><a href="internets.html"><strong aria-hidden="true">4.</strong> 🔗 Internets</a></li><li class="chapter-item "><a href="coc.html"><strong aria-hidden="true">5.</strong> 💖 Code of conduct</a></li></ol>            </div>
+                <ol class="chapter"><li class="chapter-item "><a href="welcome.html"><strong aria-hidden="true">1.</strong> 👋🏽 Welcome</a></li><li class="chapter-item "><a href="meetings.html"><strong aria-hidden="true">2.</strong> 👨‍👩‍👧 Meetings</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="meetings/2021-06-21.html"><strong aria-hidden="true">2.1.</strong> 2021-06-21</a></li><li class="chapter-item "><a href="meetings/2021-05-17.html"><strong aria-hidden="true">2.2.</strong> 2021-05-17</a></li></ol></li><li class="chapter-item "><a href="faq.html"><strong aria-hidden="true">3.</strong> 🤔 FAQ</a></li><li class="chapter-item "><a href="internets.html"><strong aria-hidden="true">4.</strong> 🔗 Internets</a></li><li class="chapter-item "><a href="coc.html"><strong aria-hidden="true">5.</strong> 💖 Code of conduct</a></li></ol>            </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
 
@@ -206,6 +206,40 @@
 <li>🥱 rather late (18:00..22:00) -- which could be good for some folks!</li>
 <li>❌ totally unreasonable (22:00 - 9:00)</li>
 </ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="2021-06-21"><a class="header" href="#2021-06-21">2021-06-21</a></h1>
+<table><thead><tr><th>Info</th><th></th></tr></thead><tbody>
+<tr><td>MC</td><td><a href="https://github.com/nikomatsakis/">nikomatsakis</a></td></tr>
+<tr><td>Time</td><td><a href="https://everytimezone.com/s/5f09e412">See in your time zone</a></td></tr>
+<tr><td>Calendar event (with Zoom details)</td><td><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzVwZ3Izb2F1MWpxY3UyN2k0cmcwamhtY2cgN24wdnZvcWZlMGtibms2aTA0dWl1NTJ0MzBAZw&amp;tmsrc=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com">link</a></td></tr>
+</tbody></table>
+<h2 id="agenda"><a class="header" href="#agenda">Agenda</a></h2>
+<p>As they are prepared, you will be able to find the <a href="https://hackmd.io/@rust-ctcft?tags=%5B%222021-06-21%22%5D">presentations on hackmd</a>, or linked below.</p>
+<ul>
+<li>(5min) <strong>Welcome</strong></li>
+<li>(5min) <strong>About the social hour</strong> -- <a href="https://github.com/yaahc/">yaahc</a>
+<ul>
+<li><a href="https://github.com/yaahc/">yaahc</a> will present her plans for a social hour that follows the CTCFT (see below).</li>
+</ul>
+</li>
+<li>(15min) <strong>Turbowish and Tokio console</strong> -- <a href="https://github.com/pnkfelix/">pnkfelix</a> and <a href="https://github.com/hawkw">Eliza (hawkw)</a>
+<ul>
+<li>Rust programs are known for being performant and correct -- but what about when that's not true? Unfortunately, the state of the art for Rust tooling today can often be a bit difficult. This is particularly true for Async Rust, where users need insights into the state of the async runtime so that they can resolve deadlocks and tune performance. This talk discuss what top-notch debugging and tooling for Rust might look like. One particularly exciting project in this area is <a href="https://github.com/tokio-rs/console">tokio-console</a>, which lets users visualize the state of projects build on the tokio library.</li>
+</ul>
+</li>
+<li>(20min) <strong>Guiding Principles for Rust</strong> -- <a href="https://github.com/nikomatsakis/">nikomatsakis</a>
+<ul>
+<li>As Rust grows, we need to ensure that it retains a coherent design. Establishing a set of &quot;guiding principles&quot; is one mechanism for doing that. Each principle captures a goal that Rust aims to achieve, such as ensuring correctness, or efficiency. The principles give us a shared vocabulary to use when discussing designs, and they are ordered so as to give guidance in resolving tradeoffs. This talk will walk through a draft set of guiding principles for Rust that <a href="https://github.com/nikomatsakis/">nikomatsakis</a> has been working on, along with examples of how they those principles are enacted through Rust's language, library, and tooling.</li>
+</ul>
+</li>
+<li>(10min) <strong>Open floor</strong>
+<ul>
+<li>Time for people to make short announcements, ask questions, whatever.</li>
+</ul>
+</li>
+<li>(5min) <strong>Closing</strong> -- <a href="https://github.com/nikomatsakis/">nikomatsakis</a></li>
+</ul>
+<h2 id="social-hour"><a class="header" href="#social-hour">Social hour</a></h2>
+<p>After the CTCFT this week, we are going to try an experimental social hour. The hour will be coordinated in the #ctcft stream of the rust-lang Zulip. The idea is to create breakout rooms where people can gather to talk, hack together, or just chill. <a href="https://github.com/yaahc/">yaahc</a> will present the details.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="2021-05-17"><a class="header" href="#2021-05-17">2021-05-17</a></h1>
 <table><thead><tr><th>Info</th><th></th></tr></thead><tbody>
 <tr><td>MC</td><td><a href="https://github.com/nikomatsakis/">nikomatsakis</a></td></tr>
@@ -213,7 +247,7 @@
 <tr><td>Calendar event (with Zoom details)</td><td><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2tpNjVkamZjdmdzbGhlNWxmaWIzMXF1Z3IgN24wdnZvcWZlMGtibms2aTA0dWl1NTJ0MzBAZw&amp;tmsrc=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com">link</a></td></tr>
 <tr><td>Recording</td><td><a href="https://youtu.be/Ti63jvWjYFY">link</a></td></tr>
 </tbody></table>
-<h2 id="agenda"><a class="header" href="#agenda">Agenda</a></h2>
+<h2 id="agenda-1"><a class="header" href="#agenda-1">Agenda</a></h2>
 <p>You can find the <a href="https://hackmd.io/@rust-ctcft?tags=%5B%222021-05-17%22%5D">presentations on hackmd</a>, or linked below.</p>
 <ul>
 <li>(5min) <a href="https://hackmd.io/@rust-ctcft/H1VIQToO_">Welcome</a></li>
@@ -244,40 +278,6 @@
 </ul>
 </li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="2021-06-21"><a class="header" href="#2021-06-21">2021-06-21</a></h1>
-<table><thead><tr><th>Info</th><th></th></tr></thead><tbody>
-<tr><td>MC</td><td><a href="https://github.com/nikomatsakis/">nikomatsakis</a></td></tr>
-<tr><td>Time</td><td><a href="https://everytimezone.com/s/5f09e412">See in your time zone</a></td></tr>
-<tr><td>Calendar event (with Zoom details)</td><td><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzVwZ3Izb2F1MWpxY3UyN2k0cmcwamhtY2cgN24wdnZvcWZlMGtibms2aTA0dWl1NTJ0MzBAZw&amp;tmsrc=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com">link</a></td></tr>
-</tbody></table>
-<h2 id="agenda-1"><a class="header" href="#agenda-1">Agenda</a></h2>
-<p>As they are prepared, you will be able to find the <a href="https://hackmd.io/@rust-ctcft?tags=%5B%222021-06-21%22%5D">presentations on hackmd</a>, or linked below.</p>
-<ul>
-<li>(5min) <strong>Welcome</strong></li>
-<li>(5min) <strong>About the social hour</strong> -- <a href="https://github.com/yaahc/">yaahc</a>
-<ul>
-<li><a href="https://github.com/yaahc/">yaahc</a> will present her plans for a social hour that follows the CTCFT (see below).</li>
-</ul>
-</li>
-<li>(15min) <strong>Turbowish and Tokio console</strong> -- <a href="https://github.com/pnkfelix/">pnkfelix</a> and others (TBD)
-<ul>
-<li>Rust programs are known for being performant and correct -- but what about when that's not true? Unfortunately, the state of the art for Rust tooling today can often be a bit difficult. This is particularly true for Async Rust, where users need insights into the state of the async runtime so that they can resolve deadlocks and tune performance. <a href="https://github.com/pnkfelix/">pnkfelix</a> will talk about some of the exploration he has been doing into what top-notch debugging and tooling for Rust might look like. One particularly exciting project in this area is <a href="https://github.com/tokio-rs/console">tokio-console</a>, which lets users visualize the state of projects build on the tokio library. </li>
-</ul>
-</li>
-<li>(20min) <strong>Guiding Principles for Rust</strong> -- <a href="https://github.com/nikomatsakis/">nikomatsakis</a>
-<ul>
-<li>As Rust grows, we need to ensure that it retains a coherent design. Establishing a set of &quot;guiding principles&quot; is one mechanism for doing that. Each principle captures a goal that Rust aims to achieve, such as ensuring correctness, or efficiency. The principles give us a shared vocabulary to use when discussing designs, and they are ordered so as to give guidance in resolvin tradeoffs. This talk will walk through a draft set of guiding principles for Rust that nikomatsakis has been working on, along with examples of how they those principles are enacted through Rust's language, library, and tooling.</li>
-</ul>
-</li>
-<li>(10min) <strong>Open floor</strong>
-<ul>
-<li>Time for people to make short announcements, ask questions, whatever.</li>
-</ul>
-</li>
-<li>(5min) <strong>Closing</strong> -- <a href="https://github.com/nikomatsakis/">nikomatsakis</a></li>
-</ul>
-<h2 id="social-hour"><a class="header" href="#social-hour">Social hour</a></h2>
-<p>After the CTCFT this week, we are going to try an experimental social hour. The hour will be coordinated in the #ctcft stream of the rust-lang Zulip. The idea is to create breakout rooms where people can gather to talk, hack together, or just chill. <a href="https://github.com/yaahc/">yaahc</a> will present the details.</p>
 <div style="break-before: page; page-break-before: always;"></div><h2 id="frequently-asked-questions"><a class="header" href="#frequently-asked-questions">Frequently Asked Questions</a></h2>
 <h3 id="who-can-attend-the-meeting"><a class="header" href="#who-can-attend-the-meeting">Who can attend the meeting?</a></h3>
 <p>This meeting is open for anyone to come and observe. Even though the meeting is primarily meant as a forum for the members of the Rust teams, it can be hard to define the borders of a community like ours. We'd love to have people who work on major Rust libraries in the ecosystem, for example, or who work on the various Rust teams at different companies.</p>
