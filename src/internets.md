@@ -5,7 +5,7 @@
 Here are links to various Rust CTCFT related internet things:
 
 * [@RustCTCFT on Twitter!](https://twitter.com/rustctcft)
-* [rust-ctcft/ctcft on Github](https://github.com/rust-ctcft/ctcft/)
+* [rust-lang/ctcft on Github](https://github.com/rust-lang/ctcft/)
 * [RustCTCFT Calendar](https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York)
 
 

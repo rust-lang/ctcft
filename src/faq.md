@@ -24,7 +24,7 @@ We're looking for three kinds of things:
 
 ### How can I propose an agenda item?
 
-[Open an issue on the CTCFT repo to let nikomatsakis know about it!](https://github.com/rust-ctcft/ctcft/issues/new/choose)
+[Open an issue on the CTCFT repo to let nikomatsakis know about it!](https://github.com/rust-lang/ctcft/issues/new/choose)
 
 ### What if I have something sensitive to discuss?
 

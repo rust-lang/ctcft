@@ -2,7 +2,7 @@
 
 ## Fostering cross-team collaboration in the Rust project
 
-![Logo](https://raw.githubusercontent.com/rust-ctcft/ctcft/main/img/camprust.png)
+![Logo](https://raw.githubusercontent.com/rust-lang/ctcft/main/img/camprust.png)
 
 ## What is this meeting about?
 
