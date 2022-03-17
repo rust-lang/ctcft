@@ -11,7 +11,7 @@ assignees: ''
 
 **General idea:** *What is the general idea of what you want to present? A brief paragraph is good.*
 
-**Theme**: *Which [currently suggested theme] could your talk fall under and how does it relate to that theme? You may select multiple potential themes.*
+**Theme**: *Which [currently suggested theme] could your talk fall under and how does it relate to that theme? You may select multiple potential themes. If you're not sure, or it doesn't fit any theme, that's ok too.*
 
 **Which of the following categories apply:** (You can pick more than one!)
 
