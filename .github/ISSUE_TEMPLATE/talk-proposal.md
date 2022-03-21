@@ -1,5 +1,5 @@
 ---
-name: Talk Proposal
+name: "Propose a talk for a future month"
 about: Suggest a talk for a future meeting agenda
 title: ''
 labels: talk proposal
