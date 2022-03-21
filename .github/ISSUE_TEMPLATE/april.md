@@ -2,7 +2,7 @@
 name: Proposal for April's theme ("Learning")
 about: Suggest a talk for 2022-04
 title: ''
-labels: "suggested agenda item", "2022-04: Learning"
+labels: ["suggested agenda item", "2022-04: Learning"]
 assignees: ''
 ---
 
