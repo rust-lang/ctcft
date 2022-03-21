@@ -11,6 +11,7 @@
     - [2021-07-19](./meetings/2021-07-19.md)
     - [2021-06-21](./meetings/2021-06-21.md)
     - [2021-05-17](./meetings/2021-05-17.md)
+- [⚙️ Meta: for the organizers](./meta.md)
 - [🤔 FAQ](./faq.md)
 - [🔗 Internets](./internets.md)
 - [💖 Code of conduct](./coc.md)
