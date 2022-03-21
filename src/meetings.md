@@ -30,17 +30,5 @@ Meetings will be recorded and those recordings will be posted publicly. We may e
 
 ## Timing of the meeting
 
-The meetings are targeted for the third Monday of every month. The timing of the meeting generally alternates between these two times. See the [CTCFT Calendar] for details.
+The meetings are targeted for the third Monday of every month. The timing of the meeting varies month-to-month in an attempt to capture more time zones (and to accommodate the speakers). See the [CTCFT Calendar] for details.
 
-| Berlin | NY | SF | Beijing | Sydney | Auckland | 🔗 |
-| --- | --- | --- | --- | --- | --- | --- |
-| 21:00 🥱 | 15:00 🥰 | 12:00 🥰 | 3:00 ❌ | 5:00 ❌ | 7:00 ❌ | [link](https://everytimezone.com/s/9ecc9fe9) |
-| 03:00 ❌ | 21:00 🥱 | 18:00 🥰 | 9:00 🥰 | 11:00 🥰 | 12:00 🥰 | [link](https://everytimezone.com/s/da0d7065) |
-
-Key:
-
-* 🥰 working hours (9:00..18:00)
-* 🥱 rather late (18:00..22:00) -- which could be good for some folks!
-* ❌ totally unreasonable (22:00 - 9:00)
-
-[CTCFT Calendar]: https://calendar.google.com/calendar/embed?src=7n0vvoqfe0kbnk6i04uiu52t30%40group.calendar.google.com&ctz=America%2FNew_York
