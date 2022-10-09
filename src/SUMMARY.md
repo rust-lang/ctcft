@@ -2,6 +2,7 @@
 
 - [👋🏽 Welcome](./welcome.md)
 - [👨‍👩‍👧 Meetings](./meetings.md)
+    - [2022-10-17](./meetings/2022-10-17.md)
     - [2022-06-27](./meetings/2022-06-27.md)
     - [2022-05-16](./meetings/2022-05-16.md)
     - [2022-04-18](./meetings/2022-04-18.md)
